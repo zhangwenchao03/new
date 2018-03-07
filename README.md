@@ -8,7 +8,6 @@
 1
   
   
-[kaggle](https://www.kaggle.com/)
-  
-https://freecodecamp.cn/
-https://www.codewars.com
+- [kaggle](https://www.kaggle.com/)
+- [freecodecamp](https://freecodecamp.cn/)
+- [codewars](https://www.codewars.com)
